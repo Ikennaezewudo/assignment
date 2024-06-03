@@ -1,0 +1,41 @@
+// Github commands and their functions
+
+repository, directory, folder
+
+repository -  folder containing the whole code uploaded to Github
+
+directory/folder - contains files and also folders
+
+git init - initializes the necessary files that should be uploaded to Github
+
+git clone [repository_url] - this is used to clone a repository example  - git clone https://github.com/Ikennaezewudo/Ecommerce
+
+git add [file] - Adds a file to the staging area of the next commit - git add .
+
+git commit -m [message] - Describes a message for every upload to the repo - git commit -m "Hello, first website"
+
+git status - displays the current status of your repository
+
+git log - gives history of all the commits to your repo
+
+git push - upload to the repo
+
+git pull - fetch changes from repo
+
+git branch - list all branches in the repo
+
+git checkout [branch name] - switch to the branch
+
+git merge [branch name] - merge the branch (branch name) into current branch
+
+git fetch - downloads objects from another repo
+
+git remote add [remote name] [remote url] - adds a new repo remotely
+
+git remote -v - list all the remote repo associated with the local repository
+
+git reset [file] - resets changes to the particular
+
+git reset --hard - resets the repo
+
+
